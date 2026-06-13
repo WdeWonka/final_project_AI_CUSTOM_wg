@@ -306,6 +306,3 @@ ENTREGA:
   Rama principal: main
   Pull Requests: 2 (develop → main, feature/cag-implementation → main)
 
-================================================================================
-FIN DEL INFORME
-================================================================================
