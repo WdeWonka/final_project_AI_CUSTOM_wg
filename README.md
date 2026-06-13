@@ -1,7 +1,7 @@
 ================================================================================
 INFORME FINAL — PROYECTO RAG + CAG
 Módulo 3 · Examen Final
-Estudiante: William (WdeWonka)
+Estudiante: William Garcia 090-22-3022
 Repositorio: https://github.com/WdeWonka/final_project_AI_CUSTOM_wg
 ================================================================================
 
